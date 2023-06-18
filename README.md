@@ -17,13 +17,13 @@ Documentation:
 
 Connection:
 
-| rs485  | bluepill |
-|--------|----------|
-| vcc    | 5V       |
-| gnd    | gnd      |
-| DI     | PA9(TX   |
-| RO     | PA10(RX) |
-|DE,RE   | Digital  |
+| rs485  | bluepill    |
+|--------|-------------|
+| vcc    | 5V          |
+| gnd    | gnd         |
+| DI     | PA9(TX)     |
+| RO     | PA10(RX)    |
+|DE,RE   | Digital pin |
 
 DE,RE => high => transmit
 DE,RE => low => recieve
