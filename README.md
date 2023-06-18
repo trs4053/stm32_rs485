@@ -32,7 +32,7 @@ Between rs485 module: A to A, B to B.
 
 Code: 
 For master node: Masternode.ino
-For slave node: 
+For slave node: Slave_node.ino
 
 Comments:
 Range: 4000ft according to google. Tested for 1 gauge copper wire.
