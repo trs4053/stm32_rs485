@@ -1,5 +1,5 @@
-# stm32_rs485
-2 stm 32 communication with rs485 module
+
+#2 stm 32 communication with rs485 module
 
 Purpose: Establish serial communication between 2 stm32.
 
