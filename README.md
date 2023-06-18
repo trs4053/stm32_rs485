@@ -3,6 +3,10 @@
 
 Purpose: Establish serial communication between 2 stm32.
 
+How it works:
+
+A master node sends info to the slave node. The slave node recieves the info and prints it in serial monitor.
+
 Hardware requirements:
 1. Bluepillf103 * 2
 2. rs485 module * 2
@@ -32,6 +36,8 @@ DE,RE => high => transmit
 DE,RE => low => recieve
 
 Between rs485 module: A to A, B to B.
+
+
 
 Code: 
 
